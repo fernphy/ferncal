@@ -9,8 +9,13 @@ It includes 114 fossil specimes for fossil-calibrated molecular dating of ferns.
 Each fossil is given a unique identifier (NFos).
 - In order to make these fossils calibration traceable, we encourage users to mention this identifier explicitly in publications.
 
-The main aim of constructing this fossil calibration list is to have an open resource that can be continually updated based on community-feedback. 
-We encourage users to propose additions to the list or changes to the taxonomic assignment of particular fossils. 
-Our philosophy is to only include fossils when the original publication is available to us, so the addition of new fossils is contingent on users providing the full reference to the original publication where the material is described.
-For transparency and to keep track of calibration history, if a taxonomic change is warranted a note on the propose changes will be added while keeping the original. 
-Deletions to the fossil list are not considered, but in particular cases a note of caution will be appended. 
+The main aim of constructing this fossil calibration list is to have an open resource that can be continually updated based on community-feedback. We encourage users to propose additions to the list or changes to the taxonomic assignment of particular fossils.  
+The general philosophy behind this list is to include fossils whose metadata are available (e.g., the original publication), thus providing the opportunity to reassess the fossil and its taxonomic affinitites. Thus, fossil-calibration of molecular trees using our list of fossils has several advantages:
+- Calibration points based on individual specimens.
+- Continuos update of the list (e.g., corrections or additions).
+- Re-assessment of taxonomic affinities based on current knowledge.
+
+## Note to users
+- The addition of new fossils is contingent on users providing the full reference to the original publication where the material is described.  
+- To keep track of the history of use of fossils, if a taxonomic change is warranted (e.g., change in generic circumscription) a note on the propose changes will be added while keeping the original taxonomic assignment.  
+- Deletions to fossil list will not be considered, but in particular cases a note of caution will be appended.   
