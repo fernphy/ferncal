@@ -10,9 +10,10 @@ The general philosophy behind this list is to include fossils whose metadata are
 - Calibration points based on individual specimens.
 - Continuos update of the list (e.g., corrections or additions).
 - Re-assessment of taxonomic affinities based on current knowledge.
+- 
 
 ## Note to users
-- Each fossil is given a unique identifier (NFos). In order to keep track of fossils calibrations (both here and in publications), we encourage users to mention this identifier explicitly.  
+- Each fossil has a unique identifier (NFos). In order to keep track of fossils calibrations (both here and in publications), we encourage users to mention this identifier.  
 - The addition of new fossils is contingent on users providing the full reference to the original publication where the material is described.  
-- To keep track of the history of use of fossils, if a taxonomic change is warranted (e.g., change in generic circumscription) a note on the propose changes will be added while keeping the original taxonomic assignment.  
+- To keep track of the history of use of these fossils, if a taxonomic change is needed (e.g., change in generic circumscription) a note on the propose change will be added while keeping the original taxonomic assignment.  
 - Deletions to fossil list will not be considered, but in particular cases a note of caution will be appended.   
