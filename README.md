@@ -19,7 +19,6 @@ The general philosophy behind this list is to include fossils whose metadata are
 
 ## Description
 A brief description of fields in the database:
-- pteridophy-Used: fossils used to calibrate FTOL.
 - CALIBRATION:
 - FOSSIL IDENTITY: fossil taxon name (binomial and full name) and taxonomic affinities.
 - FOSSIL AGE: stratigraphic age of the fossil, with the lower and upper limits of the oldest stratigraphic age (e.g., Campanian-Maastrichtian renders an age range of 72.1–-83.6, corresponding to the Campanian). 
