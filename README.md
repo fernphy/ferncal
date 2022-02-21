@@ -1,6 +1,6 @@
 # FernCal: a revised list of fern fossils for (fossil-based) molecular dating of the fern tree of life  
 This version of the calibration dataset is FernCal v1.0.  
-It includes 130 fossil specimes for fossil-calibrated molecular dating of ferns.     
+It includes fossil specimens for fossil-calibrated molecular dating of ferns.     
 This dataset was originally compiled for the following paper:  
 - Nitta JH, Schuettpelz E, Ramírez-Barahona S, Iwasaki W. An open and continuously updated fern tree of life (FTOL)
 
@@ -25,3 +25,5 @@ A brief description of fields in the database:
 - FOSSIL AGE: stratigraphic age of the fossil, with the lower and upper limits of the oldest stratigraphic age (e.g., Campanian-Maastrichtian renders an age range of 72.1–-83.6, corresponding to the Campanian). 
 - FOSSIL LOCALITY: region, locality, and geological formation (if available). GPS coordinates (and paleocoordinates) will be added in future versions.
 - FOSSIL SPECIMENS: specimen number (as mentioned in the original reference) and collection where the specimens are housed.
+
+NOTE: the list is in (continuous) development. Thus, at any given time fossil's metadata might be missing.
