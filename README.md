@@ -17,12 +17,4 @@ The general philosophy behind this list is to include fossils whose metadata are
 - To keep track of the history of use of these fossils, if a taxonomic change is needed (e.g., change in generic circumscription) a note on the proposed change will be added while keeping track of the original taxonomic assignment.  
 - Deletions to fossil list will not be considered, but in particular cases a note of caution will be appended.   
 
-## Description
-A brief description of fields in the database:
-- CALIBRATION:
-- FOSSIL IDENTITY: fossil taxon name (binomial and full name) and taxonomic affinities.
-- FOSSIL AGE: stratigraphic age of the fossil, with the lower and upper limits of the oldest stratigraphic age (e.g., Campanian-Maastrichtian renders an age range of 72.1–-83.6, corresponding to the Campanian). 
-- FOSSIL LOCALITY: region, locality, and geological formation (if available). GPS coordinates (and paleocoordinates) will be added in future versions.
-- FOSSIL SPECIMENS: specimen number (as mentioned in the original reference) and collection where the specimens are housed.
-
 NOTE: the list is in (continuous) development. Thus, at any given time fossil's metadata might be missing.
