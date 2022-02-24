@@ -8,7 +8,7 @@ This dataset was originally compiled for the following paper:
 The main aim of constructing this fossil calibration list is to have an open resource that can be continually updated based on community-feedback. We encourage users to propose additions to the list or changes to the taxonomic assignment of particular fossils.  
 The general philosophy behind this list is to include fossils whose metadata are available (e.g., the original publication, locality, specimen numbers), thus providing the opportunity to re-assess the fossil and its taxonomic affinitites based on updated taxonomic knowledge. Thus, fossil-calibration of molecular trees using our list of fossils has several advantages:
 - Calibration points based on individual specimens, which are useful for FBD-type dating.
-- Continuos update of the list (e.g., corrections or additions).
+- Continuous update of the list (e.g., corrections or additions).
 - Re-assessment of taxonomic affinities based on current knowledge.
 
 ## Note to users
