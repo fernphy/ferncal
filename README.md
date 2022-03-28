@@ -17,4 +17,4 @@ The general philosophy behind this list is to include fossils whose metadata are
 - To keep track of the history of use of these fossils, if a taxonomic change is needed (e.g., change in generic circumscription) a note on the proposed change will be added while keeping track of the original taxonomic assignment.  
 - Deletions to fossil list will not be considered, but in particular cases a note of caution will be appended.   
 
-NOTE: the list is in (continuous) development. Thus, at any given time fossil's metadata might be missing.
+NOTE: the list is in (continuous) development. Thus, at any given time fossil entries might be incomplete.
