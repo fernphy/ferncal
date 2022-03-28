@@ -1,0 +1,25 @@
+variable,formatted_name,description
+n_fos,NFos,Unique ID number for fossil
+minimum_age,Minimum age,Minimum age to apply to fossil constraint
+node_calibrated,Node calibrated,NA
+fossil_taxon,Fossil taxon,NA
+author,Author,NA
+full_taxon_name,Full taxon name,NA
+affinities_group,Affinities (group),NA
+affinities,Affinities,NA
+order_of_clade_calibrated,Order (of clade calibrated),NA
+family_of_clade_calibrated,Family (of clade calibrated),NA
+notes_on_affinities,Notes on affinities,NA
+reference,Reference,NA
+lower_limit_of_oldest_stratigraphic_age,Lower limit of oldest stratigraphic age,NA
+upper_limit_of_oldest_stratigraphic_age,Upper limit of oldest stratigraphic age,NA
+stratigraphic_age,Stratigraphic age,NA
+absolute_age,Absolute age,NA
+reference_time_scale,Reference time scale,NA
+notes_on_age,Notes on age,NA
+country,Country,NA
+type_locality,Type locality,NA
+formation,Formation,NA
+organs,Organs,NA
+specimen_holotype,Specimen (Holotype),NA
+collection,Collection,NA
