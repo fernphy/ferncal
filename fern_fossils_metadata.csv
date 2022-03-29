@@ -1,25 +1,25 @@
 variable,formatted_name,description
-n_fos,NFos,Unique ID number for fossil
-minimum_age,Minimum age,Minimum age to apply to fossil constraint
-node_calibrated,Node calibrated,NA
-fossil_taxon,Fossil taxon,NA
-author,Author,NA
-full_taxon_name,Full taxon name,NA
-affinities_group,Affinities (group),NA
-affinities,Affinities,NA
-order_of_clade_calibrated,Order (of clade calibrated),NA
-family_of_clade_calibrated,Family (of clade calibrated),NA
-notes_on_affinities,Notes on affinities,NA
-reference,Reference,NA
-lower_limit_of_oldest_stratigraphic_age,Lower limit of oldest stratigraphic age,NA
-upper_limit_of_oldest_stratigraphic_age,Upper limit of oldest stratigraphic age,NA
-stratigraphic_age,Stratigraphic age,NA
-absolute_age,Absolute age,NA
-reference_time_scale,Reference time scale,NA
-notes_on_age,Notes on age,NA
-country,Country,NA
-type_locality,Type locality,NA
-formation,Formation,NA
-organs,Organs,NA
-specimen_holotype,Specimen (Holotype),NA
-collection,Collection,NA
+n_fos,NFos,Unique ID number for fossil.
+minimum_age,Minimum age,Minimum age to apply to fossil constraint.
+node_calibrated,Node calibrated,Node calibrated by fossil constraint. Combination of 'Affinities' and 'Affinities (group)'.
+fossil_taxon,Fossil taxon,Taxonomic name of fossil (without author).
+author,Author,Taxonomic author.
+full_taxon_name,Full taxon name,"Taxonomic name of fossil, including author."
+affinities_group,Affinities (group),Type of group the fossil belongs to (crown or stem).
+affinities,Affinities,Narrowest clade the fossil belongs to.
+order_of_clade_calibrated,Order (of clade calibrated),Order of the calibrated clade.
+family_of_clade_calibrated,Family (of clade calibrated),Family of the calibrated clade.
+notes_on_affinities,Notes on affinities,Notes about the assignment of the fossil to affinities.
+reference,Reference,ID (bibtex key) for the publication describing the fossil. Corresponds to an entry in fern_fossils.bib.
+lower_limit_of_oldest_stratigraphic_age,Lower limit of oldest stratigraphic age,Lower (older) limit of the stratigraphic layer containing the fossil.
+upper_limit_of_oldest_stratigraphic_age,Upper limit of oldest stratigraphic age,Upper (younger) limit of the stratigraphic layer containing the fossil.
+stratigraphic_age,Stratigraphic age,Geologic name of stratigraphic layer.
+absolute_age,Absolute age,Absolute age of fossil.
+reference_time_scale,Reference time scale,Version of the time scale used for describing stratigraphy. ICS = International Commission on Stratigraphy.
+notes_on_age,Notes on age,Notes about the age of the fossil.
+country,Country,Country where the fossil was discovered.
+type_locality,Type locality,Locality where the fossil was discovered.
+formation,Formation,Name of geologic formation containing the fossil.
+organs,Organs,Organs preserved.
+specimen_holotype,Specimen (Holotype),Specimen voucher for the holotype of the fossil.
+collection,Collection,Name of institution housing the holotype.
