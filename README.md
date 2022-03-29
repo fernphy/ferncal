@@ -1,5 +1,6 @@
 # ferncal: A database of fossils for molecular dating of the fern tree of life  
-ferncal is a database of fossil specimens for fossil-calibrated molecular dating of ferns.     
+ferncal is a database of fossil specimens for fossil-calibrated molecular dating of ferns.
+
 This dataset was originally compiled for the following paper:  
 - Nitta JH, Schuettpelz E, Ramírez-Barahona S, Iwasaki W. An open and continuously updated fern tree of life (FTOL)
 
@@ -11,14 +12,14 @@ The general philosophy behind this list is to include fossils whose metadata are
 - Re-assessment of taxonomic affinities based on current knowledge.
 
 ## Data format
-The fossil data are contained in `[fern_fossils.csv](fern_fossils.csv)`.
-For a description of each variable (column), see `[fern_fossils_metadata.csv](fern_fossils_metadata.csv)`.
+The fossil data are contained in [fern_fossils.csv](fern_fossils.csv).
+For a description of each variable (column), see [fern_fossils_metadata.csv](fern_fossils_metadata.csv).
 
 Some of the variables use (pandoc-style) [markdown formatting](https://pandoc.org/MANUAL.html#pandocs-markdown); e.g., species names surrounded by asterisks to indicate they should be in italics and reference keys preceded by the `@` symbol.
 This is to facilitate printing the data as a formatted PDF document. 
 Columns including markdown formatting are `node_calibrated`, `full_taxon_name`, `affinities`, `notes_on_affinities`, and `notes_on_age`.
 
-The reference data (publication for each fossil) are contained in `[fern_fossils.bib](fern_fossils.bib)` (bibtex format).
+The reference data (publication for each fossil) are contained in [fern_fossils.bib](fern_fossils.bib) (bibtex format).
 
 ## Citing
 
