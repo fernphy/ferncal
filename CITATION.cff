@@ -1,0 +1,8 @@
+cff-version: 1.1.0
+message: "If you use this database, please cite it as below."
+authors:
+- name: "FTOL working group"
+title: "ferncal: A database of fossils for molecular dating of the fern tree of life"
+type: dataset
+version: v1.0.0
+date-released: 2022-03-29
