@@ -42,10 +42,10 @@ Here is the latest DOI, which you should cite if you are using the latest versio
 [![DOI](https://zenodo.org/badge/465086693.svg)](https://zenodo.org/badge/latestdoi/465086693)
 
 You can find DOIs for older versions by viewing the "Releases" menu on the right.
-## Note to users
+## Notes to users
 
-- Each fossil has a unique identifier (NFos). In order to keep track of fossils calibrations (both here and in publications), we strongly encourage users to mention fossils using this identifier.  
-- The addition of new fossils is contingent on users providing the full reference (i.e., .bib) to the original publication where the material is described.  
+- Each fossil has a unique identifier (`n_fos`). In order to keep track of fossils calibrations (both here and in publications), we strongly encourage users to mention fossils using this identifier.  
+- The addition of new fossils is contingent on users providing the full reference (in bibtex format) to the original publication where the material is described.  
 - To keep track of the history of use of these fossils, if a taxonomic change is needed (e.g., change in generic circumscription) a note on the proposed change will be added while keeping track of the original taxonomic assignment.  
 - Deletions to fossil list will not be considered, but in particular cases a note of caution will be appended.
 - We recommend a plain-text editor for editing (e.g., VS-code, BBEdit), not Excel, since Excel may result in unexpected changes to the CSV format.
