@@ -5,7 +5,7 @@
 ferncal is a database of fossil specimens for fossil-calibrated molecular dating of ferns.
 
 This dataset was originally compiled for the following paper:  
-- Nitta JH, Schuettpelz E, Ramírez-Barahona S, Iwasaki W. An open and continuously updated fern tree of life (FTOL)
+- Nitta JH, Schuettpelz E, Ramírez-Barahona S, Iwasaki W. An open and continuously updated fern tree of life (FTOL) https://doi.org/10.1101/2022.03.31.486640
 
 ## Phylosophy
 
@@ -42,6 +42,7 @@ Here is the latest DOI, which you should cite if you are using the latest versio
 [![DOI](https://zenodo.org/badge/465086693.svg)](https://zenodo.org/badge/latestdoi/465086693)
 
 You can find DOIs for older versions by viewing the "Releases" menu on the right.
+
 ## Notes to users
 
 - Each fossil has a unique identifier (`n_fos`). In order to keep track of fossils calibrations (both here and in publications), we strongly encourage users to mention fossils using this identifier.  
