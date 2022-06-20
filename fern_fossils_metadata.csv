@@ -5,6 +5,7 @@ node_calibrated,Node calibrated,Node calibrated by fossil constraint. Combinatio
 fossil_taxon,Fossil taxon,Taxonomic name of fossil (without author).
 author,Author,Taxonomic author.
 full_taxon_name,Full taxon name,"Taxonomic name of fossil, including author."
+extinct, Extinct or Extant, Status of taxon. 
 affinities_group,Affinities (group),Type of group the fossil belongs to (crown or stem).
 affinities,Affinities,Narrowest clade the fossil belongs to.
 order_of_clade_calibrated,Order (of clade calibrated),Order of the calibrated clade.
