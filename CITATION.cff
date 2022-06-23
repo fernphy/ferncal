@@ -4,5 +4,5 @@ authors:
 - name: "FTOL working group"
 title: "ferncal: A database of fossils for molecular dating of the fern tree of life"
 type: dataset
-version: v1.0.0
-date-released: 2022-03-29
+version: v1.0.1
+date-released: 2022-06-20
